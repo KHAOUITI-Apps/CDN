@@ -45,8 +45,8 @@ In this tutorial, you'll use Spring Boot to:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/khaouitiabdelhakim/cdn.git
-   cd cdn
+   git clone https://github.com/KHAOUITI-Apps/CDN.git
+   cd CDN
    ```
 
 2. Build and run the project using Maven:
